@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KidsPrograms.Application/KidsPrograms.Application.csproj" />
+    <Project Path="src/KidsPrograms.Domain/KidsPrograms.Domain.csproj" />
+    <Project Path="src/KidsPrograms.Infrastructure/KidsPrograms.Infrastructure.csproj" />
+    <Project Path="src/KidsPrograms.Web/KidsPrograms.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/KidsPrograms.IntegrationTests/KidsPrograms.IntegrationTests.csproj" />
+    <Project Path="tests/KidsPrograms.UnitTests/KidsPrograms.UnitTests.csproj" />
+  </Folder>
+</Solution>

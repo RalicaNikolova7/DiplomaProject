@@ -1,0 +1,15 @@
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/bin/Debug/net10.0/KidsPrograms.Application.deps.json
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/bin/Debug/net10.0/KidsPrograms.Application.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/bin/Debug/net10.0/KidsPrograms.Application.pdb
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/bin/Debug/net10.0/KidsPrograms.Domain.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/bin/Debug/net10.0/KidsPrograms.Domain.pdb
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.csproj.AssemblyReference.cache
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.AssemblyInfoInputs.cache
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.AssemblyInfo.cs
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.csproj.CoreCompileInputs.cache
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsProg.EA5DA4AD.Up2Date
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/refint/KidsPrograms.Application.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/KidsPrograms.Application.pdb
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Application/obj/Debug/net10.0/ref/KidsPrograms.Application.dll

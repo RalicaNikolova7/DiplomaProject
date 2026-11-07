@@ -1,0 +1,11 @@
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/bin/Debug/net10.0/KidsPrograms.Domain.deps.json
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/bin/Debug/net10.0/KidsPrograms.Domain.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/bin/Debug/net10.0/KidsPrograms.Domain.pdb
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.AssemblyInfoInputs.cache
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.AssemblyInfo.cs
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.csproj.CoreCompileInputs.cache
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/refint/KidsPrograms.Domain.dll
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/KidsPrograms.Domain.pdb
+/Users/ralitsanikolova/DiplomaProject/DiplomaProject/src/KidsPrograms.Domain/obj/Debug/net10.0/ref/KidsPrograms.Domain.dll
