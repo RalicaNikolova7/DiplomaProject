@@ -1,7 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/KidsPrograms.Application/KidsPrograms.Application.csproj" />
-    <Project Path="src/KidsPrograms.Domain/KidsPrograms.Domain.csproj" />
+    <Project Path="src/KidsPrograms.Core/KidsPrograms.Core.csproj" />
+    <Project Path="src/KidsPrograms.Data/KidsPrograms.Data.csproj" />
     <Project Path="src/KidsPrograms.Infrastructure/KidsPrograms.Infrastructure.csproj" />
     <Project Path="src/KidsPrograms.Web/KidsPrograms.Web.csproj" />
   </Folder>

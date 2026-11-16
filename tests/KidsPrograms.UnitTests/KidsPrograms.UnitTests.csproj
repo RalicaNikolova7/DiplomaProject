@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\KidsPrograms.Domain\KidsPrograms.Domain.csproj" />
+    <ProjectReference Include="../../src/KidsPrograms.Core/KidsPrograms.Core.csproj" />
   </ItemGroup>
 
 </Project>
